@@ -109,3 +109,22 @@ h2{
     margin-top: 50px;
     background-color:rgb(251, 251, 7);
 }
+
+footer {
+    width: 100%;
+    min-height: 100px ;
+    background-color: ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.social-links{
+  display: block;
+  list-style: none;
+}
+.list-item{
+  
+    display: inline;
+    padding: 0rem 0.5rem;
+}
